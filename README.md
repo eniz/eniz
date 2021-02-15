@@ -1,6 +1,6 @@
 ### Hi there, I am Eniz Gülek 👋
 
-I am working as a Senior Front-End Developer at Getir. My focus is client base development cycle such as React, Next.js. I mostly used Javascript, Typescript. 
+I am working as a Senior Front-End Developer at Getir. My focus is client base development cycle such as React, Next.js and React Native. I mostly used Javascript, Typescript. 
 
 ### How to find me? 📨
 
