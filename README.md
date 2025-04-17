@@ -1,6 +1,6 @@
 ### Hi there, I am Eniz Gülek 👋
 
-I am working as a Lead Developer at Getir. My focus is client base development cycle such as React, Next.js and React Native. I mostly used Javascript, Typescript. 
+I am working as an Engineering Manager at Getir.
 
 ### How to find me? 📨
 
